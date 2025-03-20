@@ -1,6 +1,24 @@
-# Index
+# Home
 
-A template for creating mkdocs material styled sites with the Otago branding
+Welcome to the Research Hub. 
 
-see the [source on Github]({{ repo_url }})
+To get started please select a topic below:
+
+<div class="grid cards" markdown>
+
+-   Research Data Management
+    ---
+
+
+-   Research Data Sharing
+    ---
+
+-   Research Data Storage
+    ---
+
+-   Research Compute
+    ---
+
+
+</div>
 

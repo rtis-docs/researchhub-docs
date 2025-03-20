@@ -1,6 +1,12 @@
 ignore:
   - "child/*"
 nav:
-  - "Index":
-  	- index.md
-
+  - "index.md"
+  - data
+  - "Infrastructure":
+    - "infrastructure/*"
+  - "Software":
+    - "software/*"
+  - skills
+  - "Services": 
+    - "services/*"

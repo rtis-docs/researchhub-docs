@@ -1,0 +1,6 @@
+title: Skills and Development
+nav:
+  - "Digital Research Skills":
+    - data_skills
+    - programming_skills
+  - workshops.md
